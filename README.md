@@ -39,10 +39,11 @@
 
 ## 🛠️ 설치 및 실행 방법
 
+
 ### 1. 프로젝트 클론
-```bash
-    git clone https://github.com/your-github-profile/multi-feature-app.git
-    cd multi-feature-app
+'''bash
+   git clone https://github.com/
+   cd multi-feature-app
 
 ### 2. 가상환경 생성 및 패키지 설치
     python -m venv venv
