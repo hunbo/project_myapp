@@ -43,7 +43,7 @@
 ### 1. 프로젝트 클론
 '''bash
 
-    git clone https://github.com/
+    git clone https://github.com/hunbo/project_myapp
     cd multi-feature-app
 
 ### 2. 가상환경 생성 및 패키지 설치
